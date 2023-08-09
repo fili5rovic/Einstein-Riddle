@@ -1,0 +1,1 @@
+<h1>Python application which simulates Einstein's Riddle</h1>
