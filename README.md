@@ -3,7 +3,7 @@
 ## Description
 Einstein's Riddle involves solving a puzzle by assigning attributes to different categories using a specific set of rules. The solution to the puzzle is obtained through the implementation of various functions and algorithms.
 
-> This project was developed as a university assignment for Algorithms and Data Structures. Please refer to the [instructions.pdf](instructions.pdf) file provided for detailed instructions regarding the assignment.
+> This project was developed as the second university assignment for "Algorithms and Data Structures", University of Belgrade School of Electrical Engineering, majoring Software Engineering. Please refer to the [instructions.pdf](instructions.pdf) file provided for detailed instructions regarding the assignment.
 > 
 >I really enjoyed working on this project because it gave me a chance to explore different ways of navigating through trees using code. My assignment was all about implementing the pre-order tree traversal, and it turned out to be a great learning experience that helped me grasp this important concept in a practical way.
 
